@@ -1,0 +1,1 @@
+Usarei esse repositório para salvar atividades da faculdade da disciplina de desenvolvimento web, esse diretório não necessariamente tem relação com o site em construção
